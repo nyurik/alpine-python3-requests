@@ -26,5 +26,4 @@ Once you have run this command you will get printed 'Hello World' from Python!  
 $ docker run -it --rm nyurik/alpine-python3-requests python3
 ```
 
-
 NOTE: `pip`/`pip3` is also available in this image.
