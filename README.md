@@ -2,11 +2,11 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/nyurik/alpine-python3-requests.svg?style=flat-square)](https://hub.docker.com/r/nyurik/alpine-python3-requests/)
 
 
-Python 3.6 Docker image with Requests
+Python 3.9 Docker image with Requests
 =======================
 
 This image is based on [frolvlad/alpine-python3](https://hub.docker.com/r/frolvlad/alpine-python3/), which itself is based on Alpine Linux image, which is only a 5MB image, and contains
-[Python 3.6](https://www.python.org/), and the [Requests library](http://docs.python-requests.org/en/master/).
+[Python 3.9.5](https://www.python.org/), and the [Requests library](http://docs.python-requests.org/en/master/).
 
 Download size of this image is only:
 
